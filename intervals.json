@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T04:43:59.976057",
+  "generated_at": "2026-06-25T08:14:43.442295",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -48,6 +48,29 @@
           "avg_hr": 163,
           "max_hr": 189,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i160165373",
+      "date": "2026-06-25",
+      "type": "VirtualRide",
+      "name": "Afternoon Virtual Ride",
+      "interval_summary": [
+        "1x 20m19s 166bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1219s@166bpm",
+          "duration_secs": 1219,
+          "avg_hr": 166,
+          "max_hr": 192,
+          "zone": 6
         }
       ]
     }
