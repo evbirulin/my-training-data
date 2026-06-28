@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T20:45:59.733850",
+  "generated_at": "2026-06-28T22:00:19.058905",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -135,6 +135,29 @@
           "duration_secs": 702,
           "avg_hr": 116,
           "max_hr": 156,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i160623926",
+      "date": "2026-06-27",
+      "type": "Swim",
+      "name": "Morning Workout",
+      "interval_summary": [
+        "1x 35m48s 136bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2
+        },
+        {
+          "type": "WORK",
+          "label": "2148s@136bpm",
+          "duration_secs": 2148,
+          "avg_hr": 136,
+          "max_hr": 166,
           "zone": 1
         }
       ]
